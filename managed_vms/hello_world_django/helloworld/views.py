@@ -19,4 +19,4 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse(
-        'Hello, World. This is Django running on Google App Engine')
+        'Hello, World CKS. This is Django running on Google App Engine')
